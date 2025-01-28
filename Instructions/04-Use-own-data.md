@@ -83,7 +83,7 @@ You need two models to implement your solution:
 
 The data for your copilot consists of a set of travel brochures in PDF format from the fictitious travel agency *Margie's Travel*. Let's add them to the project.
 
-1. Download the [zipped archive of brochures](https://github.com/MicrosoftLearning/mslearn-ai-studio/raw/main/data/brochures.zip) from `https://github.com/MicrosoftLearning/mslearn-ai-studio/raw/main/data/brochures.zip` and extract it to a folder named **brochures** on your local file system.
+1. Download the [zipped archive of brochures]( from `https://github.com/hzmarrou/azaistudio-training/tree/main/data/brochures.zip` and extract it to a folder named **brochures** on your local file system.
 1. In Azure AI Foundry portal, in your project, in the navigation pane on the left, under **My assets**, select the **Data + indexes** page.
 1. Select **+ New data**.
 1. In the **Add your data** wizard, expand the drop-down menu to select **Upload files/folders**.

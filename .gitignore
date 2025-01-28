@@ -1,0 +1,8 @@
+# Ignore all files and folders that start with a dot
+.*
+!.gitignore
+
+# Specifically ignore common environment and settings files
+.env
+.venv
+.env.* 
