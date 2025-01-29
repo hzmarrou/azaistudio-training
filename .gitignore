@@ -5,4 +5,19 @@
 # Specifically ignore common environment and settings files
 .env
 .venv
-.env.* 
+.env.*
+
+# Office temporary files
+~$*
+*.tmp
+
+# Crawler specific
+output/
+httpcache/
+*.pyc
+__pycache__/
+.scrapy
+
+# PowerPoint specific
+~$*.pptx
+~$*.ppt 
